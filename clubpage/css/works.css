@@ -1,0 +1,50 @@
+/* CSS Document */
+#content img{
+	float:left;
+	margin-right:15px;
+	margin-bottom:25px;
+}
+#content .divider{
+	background:transparent url(../images/divider.gif) no-repeat scroll 0 0;
+	height:10px;
+	clear:both;
+	margin-bottom:40px;
+}
+.works{
+	margin-bottom:40px;
+}
+.works p{
+	line-height:150%;
+	font-size:14px;
+}
+.works h2{
+	margin-bottom:10px;
+}
+#page{
+	text-align:right;
+	color:#0065a2;
+	font-size:14px;
+	margin-bottom:30px;
+	margin-top:-10px;
+}
+#page a{
+	color:#0065a2;
+}
+
+#links{
+	font-size:18px;
+	font-weight:bold;
+	width:887px;
+	margin:0 auto;
+	padding-top:30px;
+}
+#links a{
+	text-decoration:none;
+	color:#000;
+}
+#links #cur{
+	color:#0065a2;
+}
+#content #main{
+	padding-top:40px;
+}

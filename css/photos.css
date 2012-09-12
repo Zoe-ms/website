@@ -1,0 +1,9 @@
+﻿#picList li
+{
+    display:inline;
+    text-decoration:none;
+    }
+#picList
+{
+    margin-bottom:20px;
+    }

@@ -1,0 +1,87 @@
+/* CSS Document */
+#top,#under,#middle{
+	border-top:dashed 1px #bfbfbf;
+	clear:both;
+}
+#under{
+	border-bottom:dashed 1px #bfbfbf;
+}
+#top{
+	margin-top:30px;
+}
+.iphone{
+	float:left;
+	margin-left:58px;
+	clear:both;
+	margin-top:30px;
+	margin-bottom:40px;
+	margin-right:35px;
+}
+.additional{
+	margin-top:30px;
+}
+.info h2{
+	font-size:48px;
+	font-weight:lighter;
+	margin-bottom:30px;
+}
+.info p{
+	font-size:14px;
+	margin:10px 0;
+	margin-right:40px;
+	margin-left:420px;
+}
+ .example{
+	margin-top:30px;
+	margin-bottom:45px;
+}
+#middle .example{
+	margin-top:0px;
+}
+#top .example ul{
+	list-style-type:none;
+	margin-top:10px;
+}
+#top .example li{
+	display:inline;
+}
+.example h5{
+	font-size:24px;
+	font-weight:lighter;
+}
+.example h4{
+	font-size:30px;
+	font-weight:lighter;
+}
+.buy_info{
+	position:relative;
+	clear:right;
+}
+.buy_info img{
+	float:left;
+	margin-right:10px;
+}
+.buy_info .appstore{
+	position:absolute;
+	top:-3px;
+	right:30px;
+}
+.buy_info h4{
+	font-size:30px;
+	font-weight:lighter;
+	padding-top:20px;
+}
+#middle .example{
+	float:right;
+	margin-right:40px;
+}
+#under .example img{
+	margin-top:10px;
+	margin-bottom:15px;
+}
+#under{
+	padding-bottom:45px;
+}
+#bottom{
+	margin-top:40px;
+}

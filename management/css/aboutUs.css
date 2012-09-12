@@ -1,0 +1,108 @@
+/* CSS Document */
+h3{
+	clear:both;
+}
+#container{
+	height:640px;
+}
+.left_line{
+ background-image:url(../images/left_line.gif);
+height:20px;
+width:200px;
+}
+.long_line{
+ background-image:url(../images/long_line.gif);
+height:15px;
+width:630px;
+margin-bottom:15px;
+}
+#left{
+float:left;
+padding:0 5px;
+width:230px;
+text-align:left;
+border-right:medium solid #C1C1C0;
+height:610px;
+margin-left:5px;
+}
+#right{
+width:640px;
+float:left;
+margin-left:10px;
+margin-top:3px;
+font-size:13px;
+}
+#separator{
+	background:transparent url(../images/separator.gif) no-repeat scroll 0 0;
+	height:10px;
+	margin:15px 0;
+}
+#load img{
+	height:165px;
+	width:138px;
+	margin-left:40px;
+	margin-top:20px;
+}
+#load ul{
+	margin-top:15px;
+	list-style-type:none;
+	margin-left:40px;
+}
+#load ul li{
+	margin:15px;
+}
+#load ul a{
+	color:#0066CC;
+	font-weight:bold;
+}
+#img{
+	background:transparent url(../images/button.jpg) no-repeat scroll 0 0;
+	height:28px;
+	width:51px;
+	float:right;
+	margin-right:15px;
+	margin-top:-40px;
+	overflow:hidden;
+	text-indent:-32px;
+}
+#img a{
+	display:block;
+	text-decoration:none;
+}
+#teacher{
+	font-size:13px;
+	margin-top:10px;
+	line-height:150%;
+	margin-left:5px;
+	width:620px;
+}
+#info p {
+line-height:20px;
+width:630px;
+}
+#info img{
+	float:left;
+}
+#teach1 img,#teach2 img,#teach3 img{
+	float:left;
+	margin-bottom:18px;
+	margin-right:8px;
+}
+#teach1 img{
+	width:120px;
+	height:90px;
+}
+#teach2 img{
+	height:100px;
+	width:80px;
+	}
+#teach3 img{
+	height:120px;
+	width:90px;
+}
+#teacher h3{
+	font-size:14px;
+}
+#teach1 p,#teach3 p{
+	margin:15px 0;
+}

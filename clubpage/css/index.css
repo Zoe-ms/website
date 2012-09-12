@@ -1,0 +1,54 @@
+/* CSS Document */
+#content img{
+	float:left;
+	margin-right:40px;
+}
+#clubinfo{
+	width:569px;
+	overflow:hidden;
+}
+#clubinfo h2{
+	float:left;
+	padding-right:10px;
+}
+#clubinfo .divider{
+	background:transparent url(../images/divider.gif) no-repeat scroll right center;
+	height:16px;
+	padding-left:80px;
+	width:250px;
+	overflow:hidden;
+}
+#clubinfo p{
+	clear:both;
+	margin-left:50px;
+	margin-bottom:50px;
+	margin-top:25px;
+	line-height:200%;
+}
+#links{
+	clear:both;
+	width:887px;
+	margin:0 auto;
+	padding-top:30px;
+}
+#links h2{
+	background:transparent url(../images/links_bg.jpg) no-repeat scroll 0 0;
+	height:37px;
+	padding-top:10px;
+	padding-left:5px;
+}
+#links ul{
+	list-style-type:none;
+	padding-left:80px;
+}
+#links li{
+	float:left;
+	margin-right:135px;
+	text-align:center;
+	margin-top:15px;
+	padding-bottom:30px;
+}
+#links li img{
+	margin-bottom:15px;
+	border:none;
+}

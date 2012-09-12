@@ -1,0 +1,38 @@
+/* CSS Document */
+
+#content .divider{
+	background:transparent url(../images/divider.gif) no-repeat scroll right center;
+	height:16px;
+	padding-left:80px;
+	width:650px;
+	overflow:hidden;
+	margin-bottom:20px;
+}
+#content h2{
+	float:left;
+	margin-right:10px;
+	margin-bottom:20px;
+}
+
+#content p{
+	clear:both;
+	font-size:14px;
+	margin-left:50px;
+	line-height:180%;
+	margin-bottom:30px;
+}
+#content .require{
+	margin-bottom:30px;
+}
+#content .intro{
+	margin-bottom:20px;
+	margin-top:-20px;
+	
+}
+#content h3{
+	font-size:14px;
+	font-weight:bold;
+	color:#0065a2;
+	margin-left:50px;
+	margin-bottom:15px;
+}

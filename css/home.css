@@ -1,0 +1,26 @@
+﻿#content a
+{
+    text-decoration:none;
+    background-color:white;
+    color:#f069b9;
+    font-weight:bold;
+    }
+#content a:hover
+{
+    color:#f594cc;
+    }
+ #slide
+ {
+     width:150px;
+     height:150px;
+     overflow:hidden;
+     position:relative;
+     margin:2em 0;
+     }
+#frame
+ {
+     position:absolute;
+     top:0;
+     left:0;
+     z-index:99;
+     }

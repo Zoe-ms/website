@@ -1,0 +1,36 @@
+/* CSS Document */
+.long_line{
+ background-image:url(../images/long_line.gif);
+height:15px;
+width:630px;
+margin-bottom:15px;
+}
+#right form{
+	margin:30px;
+}
+#right table{
+width:580px;
+font-size:13px;
+margin:0px auto;
+font-weight:bold;
+border:solid 1px #D3D3D3;
+color:#333;
+text-align:right;
+margin-bottom:30px;
+}
+.tr1{
+	background-color:#D3D3D3;
+}
+#right table tr{
+height:35px;
+}
+#right table tr td{
+	padding:0 5px;
+}
+.td1{
+width:80px;
+}
+.td2 input,select{
+	width:200px;
+	height:20px;
+}

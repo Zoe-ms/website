@@ -1,0 +1,76 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	background:transparent url(../images/banner_bg.gif) scroll repeat-x 0 0;
+	height:126px;
+}
+#banner{
+	background:transparent url(../images/banner.jpg) scroll no-repeat 0 0;
+	width:887px;
+	margin:0 auto;
+	height:126px;
+}
+#banner img{
+	float:left;
+	margin-top:25px;
+}
+#banner h1{
+	font-family:"幼圆","宋体";
+	font-size:36px;
+	color:#0065a2;
+	padding-top:70px;
+	margin-left:10px;
+	font-weight:bold;
+}
+#nav{
+	color:#fff;
+	font-size:18px;
+	font-family:"黑体","宋体";
+	background:transparent url(../images/nav_bg.gif) scroll repeat-x 0 0;
+	height:38px;
+	font-weight:bold;
+}
+#nav #current a{
+	color:#fafd01;
+}
+#nav li{
+	float:left;
+	margin-right:100px;
+}
+#nav ul{
+	width:887px;
+	margin:0 auto;
+	list-style-type:none;
+	padding-top:10px;
+}
+#nav a{
+	text-decoration:none;
+	color:#fff;
+}
+#content{
+	background:transparent url(../images/main_bg.gif) scroll repeat-x top center;
+}
+#main{
+	width:887px;
+	margin:0 auto;
+	padding-top:70px;
+}
+h2{
+	font-family:"宋体";
+	font-size:18px;
+	color:#0065a2;
+}
+#footer{
+	background:transparent url(../images/footer_bg.gif) repeat-x scroll 0 0;
+	height:28px;
+	overflow:hidden;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#939292;
+	clear:both;
+	padding-top:12px;
+}

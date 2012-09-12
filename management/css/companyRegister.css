@@ -1,0 +1,122 @@
+/* CSS Document */
+#container{
+	height:800px;
+}
+#ttitle{
+	text-align:center;
+	margin-bottom:5px;
+	}
+.info_table{
+	width:860px;
+	font-size:13px;
+	margin:0px auto;
+	border:solid 1px #D3D3D3;
+	color:#333;
+	text-align:center;
+	font-weight:bold;
+	}
+.info_table tr{
+	height:30px;
+}
+.info_table .tr1{
+	background-color:#D3D3D3;
+}
+.info_table .td1{
+width:100px;
+}
+.info_table .td2 input,select{
+	width:320px;
+	height:23px;
+}
+#emp_title{
+	margin:0px auto;
+	color:#000;
+	width:860px;
+	margin-top:20px;
+	margin-bottom:5px;
+}
+.emp_table{
+	width:860px;
+	font-size:13px;
+	margin:0px auto;
+	color:#333;
+	text-align:left;
+	font-weight:bold;
+	background-color:#fff;
+	border-collapse: collapse;
+	border-color:#000;
+	}
+.emp_table td{
+	border-color:#000;
+}
+.emp_table tr{
+	height:30px;
+}
+.emp_table input{
+	height:20px;
+}
+.emp_table .co_info input{
+	border:none;
+}
+.td1 input{
+	border:none;
+}
+.td2 input{
+	border:none;
+}
+.td3 input{
+	border:none;
+}
+.td4 input{
+	border:none;
+}
+.emp_table .tr1{
+	background-color:#D3D3D3;
+	text-align:center;
+}
+.text{
+ text-align:center;
+}
+.emp_table .tr2{
+	background-color:#D3D3D3;
+	height:8px;
+}
+.emp_table .td1 input{
+width:150px;
+}
+.emp_table .td2 input{
+width:120px;
+}
+.emp_table .td3 input{
+	width:80px;
+}
+.emp_table .td4 input{
+	width:300px;
+}
+.co_info td{
+	padding:0;
+}
+.co_info input{
+	width:400px;
+}
+.emp_table .tr3{
+	height:60px;
+	text-align:left;
+	line-height:20px;
+}
+.emp_table .tr3 td{
+	padding:10px;
+}
+#contact{
+	width:860px;
+	margin:15px auto;
+	font-size:13px;
+	line-height:20px;
+}
+#submit{
+	margin-left:12px;
+}
+#submit input{
+	width:60px;
+	margin:0 10px;
+}

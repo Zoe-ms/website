@@ -1,0 +1,105 @@
+*
+{
+   margin:0px;
+   padding:0px;
+    }
+ body
+ {
+     background-image:url(../images/background.gif);
+     background-repeat:repeat-y;
+     background-color:#cf9de0;
+     color:#fff799;
+     }
+  #main
+  {
+      margin:1em 15%;
+      max-width:80em;
+      border:solid 5px #f1c3e2;
+      background-color:#f069b9;
+      color:#626262;
+      }
+  #header
+  {
+      background-image:url(../images/home.png);
+      background-repeat:no-repeat;
+      background-position:right bottom;
+      }
+ #navigation
+ {
+     background-image:url(../images/navi.gif);
+     background-repeat:repeat-x;
+    
+     padding-left:10%;
+     }
+ #navigation ul
+ {
+     width:100%;
+     overflow:hidden;
+     border-left-width:.1em;
+     border-left-style:solid;
+     border-left-color:#ccc;
+     }
+ #navigation li
+  {
+      display:inline;
+      }
+ #navigation li a 
+ {
+     display:block;
+     padding:.5em 2em;
+     border-right:.1em solid #ccc;
+     float:left;
+     text-decoration:none;
+     }
+  #navigation li a:link, a:visited
+{
+    color: White;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Arial Unicode MS';
+}
+
+  #navigation li a:hover
+  {
+      font-weight: bold;
+      background-color:#cea8d2;
+      color:Black;
+      }
+  #navigation a.here:link,
+  #navigation a.here:visited,
+  #navigation a.here:hover,
+  #navigation a.here:active
+  {
+      background-color:#cea8d2;
+      color:Black;
+      }
+  
+
+#content
+{
+    padding: 5% 10%;
+    background-color: #f594cc;
+    font-family: 'Arial Unicode MS';
+    height:auto;
+    position:relative;
+}
+   #contact #header
+   {
+       background-image:url(../images/contact.png);
+       }
+    #photos #header
+    {
+        background-image:url(../images/photos.png);
+        }
+    #blog #header
+    {
+        background-image:url(../images/blog.png);
+        }
+    #music #header
+    {
+        background-image:url(../images/music.png);
+        }
+#content h1
+{
+	color:#fff799;
+}

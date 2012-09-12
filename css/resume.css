@@ -1,0 +1,60 @@
+#content
+{
+	color: white;
+}
+
+#content h1
+{
+     text-align: center;
+     margin-bottom: 20px;
+     color:#fff799;
+}
+
+#content h2
+{
+      font-size: 20px;
+      color: #fc0;
+      margin-top:15px;
+}
+
+#content .divider{
+	background:transparent url(../images/divider.gif) no-repeat scroll 0 0;
+	height:10px;
+	clear:both;
+	margin-bottom:0px;
+}
+
+#content ul
+{
+	margin-left: 40px;
+        margin-bottom: 20px;
+}
+#content li
+{
+	padding-top: 10px;
+	font-size: 16px;
+}
+
+#content h3
+{
+	margin-top: 5px;
+        font-size: 18px;
+}
+
+#content h4
+{
+	text-indent: 13em;
+}
+
+#content p
+{
+	text-indent: 2em;
+}
+
+#content strong
+{
+	font-weight: bolder;
+}
+#eduation h3{
+	margin-top:10px;
+}

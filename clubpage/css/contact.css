@@ -1,0 +1,16 @@
+/* CSS Document */
+
+#content .divider{
+	background:transparent url(../images/divider.gif) no-repeat scroll 0 0;
+	height:10px;
+	clear:both;
+	margin-bottom:15px;
+}
+#content h2{
+	margin-bottom:10px;
+}
+#content p{
+	line-height:180%;
+	font-size:14px;
+	margin-bottom:30px;
+}

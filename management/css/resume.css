@@ -1,0 +1,58 @@
+/* CSS Document */
+.long_line{
+ background-image:url(../images/long_line.gif);
+height:15px;
+width:630px;
+margin-bottom:15px;
+}
+#resume_link {
+	margin-left:20px;
+	margin-top:30px;
+	font-size:14px;
+	font-weight:bold;
+}
+#resume_link div{
+	margin:15px;
+	}
+#resume_link a{
+	color:#0066cc;
+}
+#table{
+width:580px;
+font-size:13px;
+margin:-5px auto;
+font-weight:bold;
+border:solid 1px #D3D3D3;
+}
+#table tr{
+height:30px;
+}
+#table tr td{
+	padding:0 3px;
+}
+th {
+text-align:left;
+}
+.td1{
+width:150px;
+background-color:#D3D3D3;
+}
+.td2{
+background-color:#D3D3D3;
+}
+.td3,.td4{
+width:150px;
+color:#333333;
+}
+
+input{
+height:20px;
+font-size:13px;
+}
+option{
+height:20px;
+font-size:12px;
+}
+INPUT.text{
+width:200px;
+}

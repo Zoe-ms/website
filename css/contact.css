@@ -1,0 +1,25 @@
+label
+ {
+     display:block;
+     }
+  fieldset
+  {
+      border:0;
+      }
+
+#content li
+{
+    list-style-image:url(../images/arrow.gif);
+    padding-top:10px;
+    color: white;
+    }
+#content a
+{
+    text-decoration: none;
+    color: white;
+}
+
+#content strong
+{
+    color: #fc0;
+}

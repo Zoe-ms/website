@@ -1,0 +1,268 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#e3e3e3;
+	font-size:13px;
+	font-family:"ËÎÌו";
+	color:#000;
+}
+#main{
+	width:970px;
+	background:#fff url(../images/bg.gif) repeat-y scroll 0 0;
+	margin:0 auto;
+}
+#header{
+	background:transparent url(../images/banner.jpg) no-repeat scroll 0 0;
+	height:218px;
+	width:960px;
+	margin:0 5px;
+	margin-top:0;
+}
+#header h1{
+	display:none;
+}
+#content{
+	width:960px;
+	margin:0 5px;
+}
+#mainsider{
+	width:680px;
+	float:left;
+	border-right:solid 1px #e0e6e6;
+	padding:20px;
+}
+h2{
+	font-size:18px;
+	color:#006188;
+}
+.divider{
+	border-bottom:solid 1px #7db5de;
+	padding-bottom:0px;
+	height:27px;
+}
+#mainsider #download h2{
+	background:transparent url(../images/button_long.gif) no-repeat 0 0;
+	height:28px;
+	width:85px;
+	text-align:center;
+	line-height:28px;
+}
+#mainsider #about h2{
+	background:transparent url(../images/button_long.gif) no-repeat 0 0;
+	height:28px;
+	width:85px;
+	text-align:center;
+	line-height:28px;
+}
+#footer{
+	clear:both;
+	height:54px;
+	background:#005ebb url(../images/footer.gif) repeat-x scroll top center;
+	padding-top:20px;
+}
+#footer p{
+	text-align:center;
+	color:#999999;
+	font-size:12px;
+	line-height:150%;
+}
+#intro h2{
+	background:transparent url(../images/button.gif) no-repeat 0 0;
+	height:28px;
+	text-align:center;
+	width:76px;
+	line-height:28px;
+}
+#intro{
+	margin:15px 0;
+	line-height:150%;
+}
+#intro p{
+	padding:15px 10px;
+}
+#detail ul #current a{
+	background:transparent url(../images/button_down.gif) no-repeat 0 0;
+	color:#000;
+}
+#detail ul li{
+	list-style-type:none;
+	margin-right:15px;
+	float:left;	
+}
+#detail ul li a{
+	text-decoration:none;
+	color:#006188;
+	background:transparent url(../images/button.gif) no-repeat 0 0;
+	height:28px;
+	text-align:center;
+	width:76px;
+	display:block;
+	line-height:28px;
+}
+#detail ul li a:hover{
+	background:transparent url(../images/button_down.gif) no-repeat 0 0;
+}
+#list_detail{
+	clear:both;
+}
+#list_detail img{
+	margin:15px 0;
+	margin-left:70px;
+}
+#list_detail h3{
+	color:#006188;
+	font-size:13px;
+	margin-top:10px;
+}
+#list_detail p{
+	margin-top:5px;
+	margin-bottom:25px;
+	line-height:150%;
+}
+#list_detail ol{
+	margin-left:30px;
+	list-style-type:lower-alpha;
+	margin-top:20px;
+	margin-bottom:25px;
+}
+#list_detail ol li{
+	margin:8px 0;
+}
+#list_detail .description{
+	text-align:center;
+	margin-top:0;
+	font-weight:bold;
+}
+#download ul li{
+	list-style-type:none;
+	width:280px;
+	float:left;
+	margin-top:10px;
+}
+#download ul li img{
+	margin-right:5px;
+}
+#download ul{
+	margin-left:100px;
+	margin-top:15px;
+}
+#download ul a{
+	text-decoration:none;
+	color:#000;
+	line-height:12px;
+}
+#download ul a:hover{
+	text-decoration:underline;
+}
+#about{
+	clear:both;
+	padding-top:10px;
+}
+#about p{
+	line-height:150%;
+	margin-left:100px;
+	margin-top:15px;
+}
+#subsider{
+	width:239px;
+	float:left;
+}
+#source,#undertaker{
+	background-color:#fbfbfa;
+	border:solid 1px #cecece;
+	width:210px;
+	margin:13px;
+}
+#source{
+	margin-top:25px;
+}
+#source a{
+	color:#006188;
+	font-size:13px;
+	text-decoration:none;
+	font-weight:bold;
+}
+#source a:hover{
+	text-decoration:underline;
+}
+#subsider #source p{
+	padding-bottom:10px;
+}
+#source .intro_link{
+	padding-bottom:5px;
+}
+#undertaker{
+	margin-top:15px;
+}
+#subsider h2{
+	margin-top:10px;
+	margin-left:10px;
+}
+#subsider p{
+	border-top:solid 1px #cecece;
+	margin:5px 10px;
+	padding-top:15px;
+	padding-bottom:15px;
+	line-height:150%;
+}
+#service{
+	margin:13px;
+	width:210px;
+	background-color:#fbfbfa;
+	border:solid 1px #cecece;
+	margin-top:23px;
+}
+#service h2{
+	background:transparent url(../images/sevice.gif) no-repeat scroll 0 0;
+	height:35px;
+	width:200px;
+	margin-left:0;
+	margin-top:-8px;
+	padding-top:8px;
+	padding-left:10px;
+	overflow:visible;
+}
+#service p{
+	border-top:none;
+	margin:5px 10px;
+	padding:0;
+}
+#service .number{
+	border-bottom:solid 1px #cecece;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+/*intro.html*/
+#introduction h2{
+	font-size:18px;
+	color:#006188;	
+	background:none;
+	text-align:center;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+#introduction p{
+	margin:0 30px;
+	line-height:150%;
+	font-size:13px;
+}
+#introduction{
+	margin-bottom:20px;
+}
+#back{
+	text-align:right;
+	margin-right:30px;
+	margin-bottom:20px;
+}
+#back a{
+	color:#006188;
+	text-decoration:underline;
+	font-weight:bold;
+}
+#back a:hover{
+	text-decoration:underline;
+}

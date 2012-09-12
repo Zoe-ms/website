@@ -1,0 +1,15 @@
+#content{
+font-size:13px;
+line-height:30px;
+width:580px;
+margin:10px auto;
+}
+.long_line{
+ background-image:url(../images/long_line.gif);
+height:15px;
+width:630px;
+margin-bottom:15px;
+}
+#submit_resume{
+	margin:30px 0;
+}

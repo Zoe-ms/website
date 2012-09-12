@@ -1,0 +1,45 @@
+
+#right{
+width:640px;
+float:left;
+margin-left:15px;
+overflow:visible;
+font-size:13px;
+margin-top:10px;
+}
+#pageInfo{
+	text-align:right;
+	margin-right:10px;
+}
+#info{
+	margin-top:30px;
+}
+#info ul a{
+	text-decoration:none;
+	color:#000;
+}
+#info ul li{
+	margin:10px 20px;
+	list-style-position:inside;
+}
+
+.left_line{
+ background-image:url(../images/left_line.gif);
+height:20px;
+width:207px;
+}
+.long_line{
+ background-image:url(../images/long_line.gif);
+height:15px;
+width:630px;
+margin-bottom:15px;
+}
+#left{
+float:left;
+text-align:left;
+border-right:medium solid #C1C1C0;
+height:570px;
+margin-top:8px;
+margin-left:5px;
+width:230px;
+}

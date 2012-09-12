@@ -1,0 +1,26 @@
+/* CSS Document */
+.long_line{
+ background-image:url(../images/long_line.gif);
+height:15px;
+width:630px;
+margin-bottom:15px;
+}
+#load ul{
+ margin-left:30px;
+}
+#pageInfo{
+	text-align:right;
+	margin-right:10px;
+}
+#info{
+	margin-top:30px;
+}
+#info ul a{
+	text-decoration:none;
+	color:#000;
+}
+#info ul li{
+	margin:10px 20px;
+	list-style-position:inside;
+}
+
